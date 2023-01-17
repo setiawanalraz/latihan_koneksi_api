@@ -1,6 +1,6 @@
 # latihan_koneksi_api
 
-A simple Flutter project to connect APIs using the POST and GET methods created by Erico Darmawan Handoyo's YouTube Channel. The API address used is https://reqres.in
+A simple Flutter project to connect APIs using the POST and GET methods. The API address used is https://reqres.in
 
 ## Getting Started
 
