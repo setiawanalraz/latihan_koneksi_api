@@ -15,6 +15,12 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+Dependencies used by this app:
+- cupertino_icons: ^1.0.2
+- http: ^0.13.5
+- google_fonts: ^3.0.1
+- font_awesome_flutter: ^10.3.0
+
 ![Screenshot_2023-01-17-16-48-08-64_11b61d1c5d083f1094f86b83d8094597](https://user-images.githubusercontent.com/58968817/212866559-d39896e4-9a0c-45e5-a338-76f21f646b8c.jpg)
 
 ![Screenshot_2023-01-17-16-48-32-49_11b61d1c5d083f1094f86b83d8094597](https://user-images.githubusercontent.com/58968817/212866572-331980b8-a186-49bd-ab60-5d1cda5bcf76.jpg)
